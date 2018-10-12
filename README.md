@@ -9,3 +9,10 @@ http://blog.rlab.ru/izobretaem-zhestkiy-disk-chast-1-442.html
 
 Изобретаем жесткий диск. Часть 2. Чтение ПЗУ.
 http://blog.rlab.ru/izobretaem-zhestkiy-disk-chast-2-chtenie-pzu-483.html
+
+Изобретаем жесткий диск. Часть 3. Удалось прочитать ПЗУ.
+http://blog.rlab.ru/izobretaem-zhestkiy-disk-chast-3-udalos-prochitat-pzu-500.html
+
+
+
+
