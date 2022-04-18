@@ -2,7 +2,7 @@
 
 Файлы проекта "плата жесткого диска".
 
-Посты в БЛОГ'е R.LAB
+Посты в БЛОГ'е R.LAB (https://blog.rlab.ru/)
 
 Изобретаем жесткий диск. Часть 1.
 http://blog.rlab.ru/izobretaem-zhestkiy-disk-chast-1-442.html
