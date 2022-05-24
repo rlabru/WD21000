@@ -20,3 +20,4 @@ http://blog.rlab.ru/izobretaem-zhestkiy-disk-chast-4-dokumentatsiya-na-mikroshem
 http://blog.rlab.ru/izobretaem-zhestkiy-disk-chast-5-dizassemblirovanie-510.html
 
 
+autor email: s@rlab.ru
