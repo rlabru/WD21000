@@ -24,6 +24,10 @@ AT27C516-70JC-Atmel.pdf
 
 KM62256.pdf
 
+**ОЗУ ATA буфера:**
+
+TC511664B.PDF
+
 **Управление шпиндельным двигателем:**
 
 L6232.pdf
@@ -83,5 +87,10 @@ t_UC3173AQP.pdf
 ![WD61C28C](WD61C28C.jpg)
 
 ![WD61C29B_inside](WD61C29B_inside.jpg)
+
+WD42C22_Winchester_Disk_Subsystem_Controller.pdf - описание на старый вариант контроллера интерфейса. 
+Некоторые его регистры управления совпадают по функциональности. 
+Thenx for this manual to http://www.bitsavers.org/components/
+
 
 
